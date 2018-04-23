@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\bin\Debug\netcoreapp2.0\RandomList.deps.json
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\bin\Debug\netcoreapp2.0\RandomList.runtimeconfig.json
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\bin\Debug\netcoreapp2.0\RandomList.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\bin\Debug\netcoreapp2.0\RandomList.dll
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\bin\Debug\netcoreapp2.0\RandomList.pdb
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\obj\Debug\netcoreapp2.0\RandomList.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\obj\Debug\netcoreapp2.0\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\obj\Debug\netcoreapp2.0\RandomList.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\obj\Debug\netcoreapp2.0\RandomList.AssemblyInfo.cs
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\obj\Debug\netcoreapp2.0\RandomList.dll
+C:\Users\user\Source\Repos\InheritanceLab\RandomList\obj\Debug\netcoreapp2.0\RandomList.pdb

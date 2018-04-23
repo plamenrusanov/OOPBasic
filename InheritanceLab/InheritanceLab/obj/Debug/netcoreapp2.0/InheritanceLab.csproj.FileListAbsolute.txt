@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp2.0\InheritanceLab.deps.json
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp2.0\InheritanceLab.runtimeconfig.json
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp2.0\InheritanceLab.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp2.0\InheritanceLab.dll
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp2.0\InheritanceLab.pdb
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp2.0\InheritanceLab.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp2.0\InheritanceLab.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp2.0\InheritanceLab.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp2.0\InheritanceLab.AssemblyInfo.cs
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp2.0\InheritanceLab.dll
+C:\Users\user\Source\Repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp2.0\InheritanceLab.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\InheritanceExercise\test\bin\Debug\netcoreapp2.0\TSpan.deps.json
+C:\Users\user\Source\Repos\InheritanceExercise\test\bin\Debug\netcoreapp2.0\TSpan.runtimeconfig.json
+C:\Users\user\Source\Repos\InheritanceExercise\test\bin\Debug\netcoreapp2.0\TSpan.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\InheritanceExercise\test\bin\Debug\netcoreapp2.0\TSpan.dll
+C:\Users\user\Source\Repos\InheritanceExercise\test\bin\Debug\netcoreapp2.0\TSpan.pdb
+C:\Users\user\Source\Repos\InheritanceExercise\test\obj\Debug\netcoreapp2.0\TSpan.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\InheritanceExercise\test\obj\Debug\netcoreapp2.0\TSpan.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\InheritanceExercise\test\obj\Debug\netcoreapp2.0\TSpan.AssemblyInfo.cs
+C:\Users\user\Source\Repos\InheritanceExercise\test\obj\Debug\netcoreapp2.0\TSpan.dll
+C:\Users\user\Source\Repos\InheritanceExercise\test\obj\Debug\netcoreapp2.0\TSpan.pdb

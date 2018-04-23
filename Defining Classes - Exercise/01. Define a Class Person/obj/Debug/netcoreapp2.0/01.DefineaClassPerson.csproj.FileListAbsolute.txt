@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.deps.json
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.runtimeconfig.json
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.dll
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.pdb
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.dll
+C:\Users\user\Source\Repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.pdb

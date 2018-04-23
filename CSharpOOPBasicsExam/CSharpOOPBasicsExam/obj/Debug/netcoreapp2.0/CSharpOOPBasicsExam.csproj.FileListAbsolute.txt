@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\bin\Debug\netcoreapp2.0\CSharpOOPBasicsExam.deps.json
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\bin\Debug\netcoreapp2.0\CSharpOOPBasicsExam.runtimeconfig.json
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\bin\Debug\netcoreapp2.0\CSharpOOPBasicsExam.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\bin\Debug\netcoreapp2.0\CSharpOOPBasicsExam.dll
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\bin\Debug\netcoreapp2.0\CSharpOOPBasicsExam.pdb
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\obj\Debug\netcoreapp2.0\CSharpOOPBasicsExam.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\obj\Debug\netcoreapp2.0\CSharpOOPBasicsExam.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\obj\Debug\netcoreapp2.0\CSharpOOPBasicsExam.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\obj\Debug\netcoreapp2.0\CSharpOOPBasicsExam.AssemblyInfo.cs
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\obj\Debug\netcoreapp2.0\CSharpOOPBasicsExam.dll
+C:\Users\user\Source\Repos\CSharpOOPBasicsExam\CSharpOOPBasicsExam\obj\Debug\netcoreapp2.0\CSharpOOPBasicsExam.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StorageMaster", "StorageMaster\StorageMaster.csproj", "{BA83CB87-603A-41D2-9662-2D42B06FDC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageMaster.Test", "StorageMaster.Test\StorageMaster.Test.csproj", "{30F924DB-E4AF-467D-80DB-75809F2EFCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA83CB87-603A-41D2-9662-2D42B06FDC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA83CB87-603A-41D2-9662-2D42B06FDC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA83CB87-603A-41D2-9662-2D42B06FDC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA83CB87-603A-41D2-9662-2D42B06FDC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F924DB-E4AF-467D-80DB-75809F2EFCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F924DB-E4AF-467D-80DB-75809F2EFCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F924DB-E4AF-467D-80DB-75809F2EFCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F924DB-E4AF-467D-80DB-75809F2EFCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5779E4AE-B313-4E75-BEEB-F8470D6A4B12}
+	EndGlobalSection
+EndGlobal

@@ -13,6 +13,7 @@ public class DraftManager
     private List<IProvider> providers;
     private ProviderFactory providerFactory;
     private HarvesterFactory harvesterFactory;
+    private Modes modes;
 
     public DraftManager()
     {
@@ -23,6 +24,7 @@ public class DraftManager
         this.providers = new List<IProvider>();
         this.providerFactory = new ProviderFactory();
         this.harvesterFactory = new HarvesterFactory();
+        this.modes = new Modes();
     }
 
     public string RegisterHarvester(List<string> arguments)
@@ -77,10 +79,7 @@ public class DraftManager
                 else summedOreOutput = 0;
                 break;
             case "Ënergy":
-                if (sumEnergyRequirement <= totalStoredEnergy)
-                {
-                    summedOreOutput = 0;
-                }
+               summedOreOutput = 0;
                 break;
             default:
                 break;
@@ -92,6 +91,8 @@ public class DraftManager
     public string Mode(List<string> arguments)
     {
         string newMode = arguments[0];
+
+        var result = Enum.Parse(typeof(Modes), newMode);
         switch (newMode)
         {
             case "Full":
@@ -104,9 +105,9 @@ public class DraftManager
                 this.mode = "Energy";
                 break;
             default:
-                return "Wrong argument mode!"; 
+                break; 
         }
-        return $"Successfully changed working mode to {newMode} Mode";
+        return $"Successfully changed working mode to {result} Mode";
     }
 
     public string Check(List<string> arguments)
